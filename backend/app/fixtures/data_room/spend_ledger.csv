@@ -1,0 +1,13 @@
+vendor,category,annual_spend,purchased_seats,active_seats,owner,status
+Slack,Collaboration,52800,220,89,IT Operations,leaking
+Datadog,Observability,118000,,,Platform Engineering,leaking
+Figma,Design,7200,12,0,Design,zombie
+Notion,Knowledge Management,18000,450,412,Operations,healthy
+Zoom,Video Conferencing,14400,240,167,IT Operations,review
+Miro,Whiteboarding,9600,80,41,Product,review
+GitHub,Developer Tools,54000,180,173,Engineering,healthy
+Jira,Project Management,39600,330,301,Engineering,healthy
+Confluence,Knowledge Management,22800,330,198,Engineering,review
+Asana,Project Management,12000,100,17,Marketing,review
+Loom,Async Video,8400,140,63,People Operations,review
+1Password,Security,15600,260,252,Security,healthy

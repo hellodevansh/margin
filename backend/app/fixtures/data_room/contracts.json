@@ -1,0 +1,8 @@
+[
+  {"vendor":"Slack","contract_id":"CTR-SLK-2026","renewal_date":"2026-08-31","committed_seats":220,"unit_price_monthly":20,"annual_commitment":52800,"auto_renew":true,"notice_days":60},
+  {"vendor":"Datadog","contract_id":"CTR-DD-2026","renewal_date":"2026-09-30","annual_commitment":100000,"auto_renew":true,"notice_days":90},
+  {"vendor":"Figma","contract_id":"CTR-FIG-2026","renewal_date":"2026-07-15","committed_seats":12,"annual_commitment":7200,"auto_renew":true,"notice_days":30},
+  {"vendor":"Notion","contract_id":"CTR-NOT-2026","renewal_date":"2026-12-31","committed_seats":450,"annual_commitment":18000,"auto_renew":false,"notice_days":30},
+  {"vendor":"Confluence","contract_id":"CTR-CON-2026","renewal_date":"2026-10-31","committed_seats":330,"annual_commitment":22800,"auto_renew":true,"notice_days":60},
+  {"vendor":"Asana","contract_id":"CTR-ASN-2026","renewal_date":"2026-08-15","committed_seats":100,"annual_commitment":12000,"auto_renew":true,"notice_days":45}
+]

@@ -1,0 +1,9 @@
+employee,email,department,manager,status,location
+Sarah Chen,sarah@acmeai.example,Operations,Maya Patel,active,San Francisco
+John Miller,john@acmeai.example,Engineering,Maya Patel,active,New York
+Alex Rivera,alex@acmeai.example,Product,Jordan Lee,active,Austin
+Priya Shah,priya@acmeai.example,Finance,Jordan Lee,active,London
+Morgan Liu,morgan@acmeai.example,Design,Elena Rossi,departed,Berlin
+Taylor Brooks,taylor@acmeai.example,Marketing,Elena Rossi,active,Toronto
+Jordan Kim,jordan@acmeai.example,People Operations,Maya Patel,active,Seattle
+Casey Wilson,casey@acmeai.example,Product,Jordan Lee,active,Denver

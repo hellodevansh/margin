@@ -23,9 +23,9 @@ Users can add CSV, JSON, PDF, Word, Markdown, or text evidence before starting. 
 5. **Decide**: present only gate-released actions to the project head.
 6. **Recover**: create the approved vendor-facing draft and retain the receipt.
 
-The Slack story makes the gate causally necessary. Margin blocks a tempting `$31,440` bulk cancellation because action safety is `0.72`, then releases the owner-verified `$22,400` reclaim-and-downgrade action at `0.96` safety and `0.98` confidence. Recovery tasks are generated only from passed strategies.
+The Slack story makes live evidence causally necessary. Margin posts one dedicated Figma workspace verification request, places that recovery item first in the decision queue, and waits for a real thread reply. `RECLAIM` unlocks the final in-platform decision; `KEEP` closes the item without vendor action. Margin also blocks a tempting `$31,440` bulk Slack cancellation because action safety is `0.72`, then releases the safer `$22,400` reclaim-and-downgrade action at `0.96` safety and `0.98` confidence.
 
-Slack never carries project-head decisions. Approving a task inside Margin creates a live, actionable Outlook draft addressed to the relevant vendor. Drafts request concrete remedies, terms, credits, confirmations, and deadlines; they are never sent automatically. Holding or rejecting a task stays inside Margin and launches no external work.
+Slack never carries project-head decisions. The Figma thread supplies resource-owner evidence only. Approving an unlocked task inside Margin creates a live, actionable Outlook draft addressed to the relevant vendor. Drafts request concrete remedies, terms, credits, confirmations, and deadlines; they are never sent automatically. Holding or rejecting a task stays inside Margin and launches no external work.
 
 The backend rejects empty or incomplete submissions. Uploaded canonical filenames retain their evidence lineage, so the complete uploaded demo package covers every workflow while still making document ingestion visible to judges.
 

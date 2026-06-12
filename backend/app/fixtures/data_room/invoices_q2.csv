@@ -1,0 +1,9 @@
+invoice_id,vendor,invoice_date,amount,contracted_amount,variance,approval_status
+INV-10421,Datadog,2026-04-01,29500,25000,4500,approved
+INV-10887,Datadog,2026-05-01,29500,25000,4500,approved
+INV-11294,Datadog,2026-06-01,29500,25000,4500,approved
+INV-11602,Datadog,2026-07-01,29500,25000,4500,pending
+INV-22018,Slack,2026-04-01,13200,13200,0,approved
+INV-22192,Slack,2026-05-01,13200,13200,0,approved
+INV-22371,Slack,2026-06-01,13200,13200,0,approved
+INV-22502,Slack,2026-07-01,13200,13200,0,pending

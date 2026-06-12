@@ -1,0 +1,5 @@
+vendor,cohort,seat_count,usage_rule,owner_confirmation,decision,annual_recovery
+Slack,no_use_confirmed,84,0 active days in 90 days,confirmed,reclaim,20160
+Slack,low_use_confirmed,47,1-10 active days in 90 days,confirmed,downgrade,2240
+Slack,active_protected,89,more than 10 active days in 90 days,confirmed,keep,0
+Figma,no_use_confirmed,12,0 active days in 90 days,confirmed,non_renew,7200

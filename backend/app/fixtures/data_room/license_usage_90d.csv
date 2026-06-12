@@ -1,0 +1,9 @@
+employee,vendor,license,days_active_90d,last_active,manager,recommended_action
+Sarah Chen,Slack,Pro,0,2026-02-11,Maya Patel,reclaim
+John Miller,Slack,Pro,71,2026-06-11,Maya Patel,keep
+Alex Rivera,Slack,Pro,9,2026-05-28,Jordan Lee,downgrade
+Priya Shah,Slack,Pro,0,2026-01-19,Jordan Lee,reclaim
+Morgan Liu,Figma,Professional,0,2026-01-03,Elena Rossi,reclaim
+Taylor Brooks,Asana,Advanced,4,2026-04-21,Elena Rossi,downgrade
+Jordan Kim,Loom,Business,2,2026-03-14,Maya Patel,downgrade
+Casey Wilson,Miro,Business,6,2026-04-30,Jordan Lee,downgrade
